@@ -8,5 +8,6 @@ target/
 *.iml
 /.idea/
 /.vscode/
-.settings/
+/.settings/
 *.log
+.DS_Store
